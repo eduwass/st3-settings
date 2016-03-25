@@ -6,7 +6,7 @@
 	"color_scheme": "Packages/User/Seti_monokai (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_size": 14,
 	"hide_vscrollbar": true,
 	"highlight_line": true,
 	"ignored_packages":
@@ -22,8 +22,8 @@
 		100,
 		120
 	],
-	"theme": "Seti_orig.sublime-theme",
 	"tab_size": 4,
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false",
+	"word_wrap": "false"
 }
