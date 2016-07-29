@@ -1,12 +1,21 @@
 {
 	"Seti_SB_med": true,
+	"auto_complete_selector": "source, text",
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Seti_monokai.tmTheme",
 	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"font_size": 15,
 	"hide_vscrollbar": true,
 	"highlight_line": true,
 	"ignored_packages":
