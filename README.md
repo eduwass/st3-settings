@@ -30,4 +30,4 @@ hln Seti_monokai.tmTheme $HOME/Library/Application\ Support/Sublime\ Text\ 3/Pac
 4. Launch Sublime and wait for Package Control to download and install all packages, popup windows may emerge, ignore until everything is installed and relaunch
 
 ## Usage
-(OSX) Cd into the repo's folder every now and push changes to save new settings to Github
+(OSX) Cd into the repo's folder every now and then and push changes to save new settings to Github
