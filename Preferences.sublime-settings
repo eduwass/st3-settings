@@ -18,6 +18,7 @@
 	"font_size": 13,
 	"hide_vscrollbar": true,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -26,13 +27,15 @@
 	"line_padding_top": 6,
 	"original_color_scheme": "Packages/User/Seti_monokai (SL).tmTheme",
 	"overlay_scroll_bars": "disabled",
+	"remember_open_files": false,
 	"rulers":
 	[
 		100,
 		120
 	],
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
 }

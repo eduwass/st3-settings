@@ -1,14 +1,14 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"ColorPicker",
-		"ColorSchemeEditor",
-		"DashDoc",
 		"DocBlockr",
 		"Function Name Display",
 		"Git",
@@ -16,25 +16,22 @@
 		"HTML-CSS-JS Prettify",
 		"jQuery",
 		"LESS",
-		"Markdown Extended",
-		"MJML-syntax",
+		"Markdown Preview",
 		"Modific",
-		"OmniMarkupPreviewer",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
 		"Seti_UI",
 		"SFTP",
 		"SideBarEnhancements",
-		"Slack",
 		"SqlBeautifier",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Terminal",
 		"Text Pastry",
-		"WakaTime"
+		"WakaTime",
+		"WooCommerce Autocomplete",
+		"WordPress Completions"
 	],
 	"repositories":
 	[
