@@ -10,7 +10,7 @@
                 <key>settings</key>
                 <dict>
                     <key>background</key>
-                    <string>#151718</string>
+                    <string>#0D1011</string>
                     <key>foreground</key>
                     <string>#d4d7d6</string>
 
@@ -19,7 +19,7 @@
                     <key>invisibles</key>
                     <string>#F3FFB51A</string>
                     <key>lineHighlight</key>
-                    <string>#101112</string>
+                    <string>#151718</string>
 
                     <key>findHighlight</key>
                     <string>#4FA5C7</string>

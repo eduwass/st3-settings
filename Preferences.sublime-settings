@@ -12,10 +12,11 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
+		"CVS",
+		"node_modules"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_size": 16,
 	"hide_vscrollbar": true,
 	"highlight_line": true,
 	"hot_exit": false,
@@ -36,6 +37,5 @@
 	"tab_size": 2,
 	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "false",
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
+	"word_wrap": "false"
 }
